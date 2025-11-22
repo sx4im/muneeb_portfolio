@@ -82,7 +82,7 @@ export const footer: Footer = {
         },
         {
           name: "Email",
-          link: "mailto:muneed1882007@gmail.com",
+          link: "mailto:muneeb1882007@gmail.com",
           icon: "/static/icons/mail-f.svg",
           leavesWebsite: true,
         },
