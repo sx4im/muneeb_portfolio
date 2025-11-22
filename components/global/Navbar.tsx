@@ -15,7 +15,7 @@ function Navbar({ currentPage }) {
               width="60"
               alt="MuneedUR Logo"
             />
-            {"MuneedUR".split("").map((letter, index) => {
+            {"MuneebUR".split("").map((letter, index) => {
               return (
                 <span key={index} className="hover:text-fun-pink hover:-mt-2 transition-all duration-500 hover:duration-100 click:goodbyeLetterAnim">
                   {letter}
