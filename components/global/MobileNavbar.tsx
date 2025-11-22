@@ -62,7 +62,7 @@ export default function MobileNavbar() {
               src="/static/logos/logo.ico"
               width="60"
               height="60"
-              alt="MuneedUR Logo"
+              alt="MuneebUR Logo"
             />
           </Link>
         </li>

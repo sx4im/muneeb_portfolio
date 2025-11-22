@@ -5,7 +5,7 @@ import Navbar from "../global/Navbar";
 import React, { ReactChildren } from "react";
 
 function Page({ currentPage, meta: { title, desc }, children }: PageProps) {
-  const pageTitle = "Muneed ur Rehman";
+  const pageTitle = "Muneeb ul Rehman";
   console.log(currentPage);
   return (
     <div
