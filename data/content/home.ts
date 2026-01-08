@@ -66,8 +66,8 @@ export const testimonials: Testimonial[] = [
   {
     quote:
       "The communication throughout the project was spot on and the genre of design was carried out well.",
-    name: "Rai Salman",
-    job: "Co-Founder of Pornhub",
+    name: "Aqib Khan",
+    job: "Co-Founder at Acme Digital",
   },
   {
     quote:
@@ -79,6 +79,6 @@ export const testimonials: Testimonial[] = [
     quote:
       "My vision was executed perfectly. The quality and speed of the work was excellent.",
     name: "M. Ikhlas ",
-    job: "Founder of Bkchodi",
+    job: "Founder at Stellar Labs",
   },
 ];
